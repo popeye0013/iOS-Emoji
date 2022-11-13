@@ -40,4 +40,4 @@ How do I do that?***
 
 
 ## Warning:
-***I'm not responsible for any bricked devices! Even though always try to help you out of a bootloop or with any other problems, I won't take responsibility for anything caused by this module. Use it at your own risk!***
+[+]--I'm not responsible for any bricked devices! Even though always try to help you out of a bootloop or with any other problems, I won't take responsibility for anything caused by this module. Use it at your own risk!***
