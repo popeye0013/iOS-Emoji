@@ -15,15 +15,17 @@ The module should work on most Android devices, RO0T is required in order to use
 ***How to apply the font manually! 💚***
 
 ## Instructions:
-1️⃣ Back up existing NotoColorEmoji.ttf from /system/fonts (Recommended File Explorer)
-2️⃣. Download modded .ttf file (Emoji Replacer 😬) Locate the .ttf (Internal Storage/EmojiReplacer)
-3️⃣ Rename it to (NotoColorEmoji.ttf)
-4️⃣ Copy/Paste modded .ttf file to the same location /system/fonts, overwriting the existing one. Change permissions to rw-r-r (0644) and then reboot. 
-5️⃣ Enjoy your new emojis 😝
+
+1. Back up existing NotoColorEmoji.ttf from /system/fonts (Recommended File Explorer)
+2. Download modded .ttf file (Emoji Replacer 😬) Locate the .ttf (Internal Storage/EmojiReplacer)
+3. Rename it to (NotoColorEmoji.ttf)
+4. Copy/Paste modded .ttf file to the same location /system/fonts, overwriting the existing one. Change permissions to rw-r-r (0644) and then reboot. 
+5. Enjoy your new emojis 😝
 
 
 
 ## Samsung Instructions:
+
 1. Back up existing NotoColorEmoji.ttf & SamsungColorEmoji.ttf from /system/fonts (Recommended File Explorer)
 2. Download modded .ttf file (Emoji Replacer 😬) Locate the .ttf (Internal Storage/EmojiReplacer)
 3. Rename them to (NotoColorEmoji.ttf & SamsungColorEmoji.ttf) 
