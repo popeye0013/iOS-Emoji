@@ -1,8 +1,8 @@
-## iOS16-Emoji
+## About Module:
 It replaces your default emoji font with the iOS16 emojis!
 
 
-## Magisk Installation: 
+## Installation: 
 1. Open Magisk and go to the modules page.
 2. Click on install from storage and select the downloaded zip file.
 3. Wait for it to install and reboot when it's done.
