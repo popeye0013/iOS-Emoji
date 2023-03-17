@@ -12,9 +12,13 @@ It replaces your default emoji font with the iOS16 emojis!
 ## Install Manually:
 
 1. Back up existing NotoColorEmoji.ttf from /system/fonts (Recommended MT Manager)
-2. Download [popMods.ttf]() file & locate the popMods.ttf (/storage/emulated/0/Download/)
-3. Rename it to ```NotoColorEmoji.ttf```
-4. Copy/Paste .ttf file to the same location /system/fonts/, overwriting the existing one. Change permissions to rw-r-r (0644) and then reboot.
+
+2. Extract NotoColorEmoji.ttf file from iOS16-Emoji.zip (iOS16-Emoji/system/fonts/NotoColorEmoji.ttf)
+
+3. Copy/Paste NotoColorEmoji.ttf file to the same location /system/fonts/, overwriting the existing one. 
+
+4. Change permissions to rw-r-r (0644) and then reboot.
+
 5. Enjoy your new emojis 😝
 
 Note: Samsung users rename them to ```NotoColorEmoji.ttf``` & ```SamsungColorEmoji.ttf```
