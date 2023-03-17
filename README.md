@@ -1,5 +1,5 @@
 ## About Module:
-It replaces your default emoji font with the iOS16 emojis!
+It replaces your default emoji font with the iOS16 emojis! (ROOT)
 
 
 ## Installation: 
