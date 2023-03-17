@@ -22,8 +22,8 @@ Note: Samsung users rename them to ```NotoColorEmoji.ttf``` & ```SamsungColorEmo
 
 ## If not working:
 
-**Download the latest version of ["Gboard"](https://www.apkmirror.com/apk/google-inc/gboard/) If they still don't show then clear the cache. 
-How do I do that?**
+***Download the latest version of ["Gboard"](https://www.apkmirror.com/apk/google-inc/gboard/) If they still don't show then clear the cache. 
+How do I do that?***
 1. Open the settings from the keyboard ⚙️ 
 2. Go to your recent apps and long process on gboard.
 3. Click the ⚙️ icon to open "App info" 
