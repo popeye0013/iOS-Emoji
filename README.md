@@ -34,9 +34,9 @@ How do I do that?***
 4. Navigate to storage then clear cache. 
 5. Done!  🫣🫡
 
+## Warning:
+***I'm not responsible for any bricked devices! Even though always try to help you out of a bootloop or with any other problems, I won't take responsibility for anything caused by this module. Use it at your own risk!***
+
 ## Support
 
 <p align="vertical"><a href="https://paypal.me/popeye0013"><img src="https://github.com/aha999/DonateButtons/blob/1371730702589476cbd31790685ded66857a1f08/Paypal.png" width="175"></a></p>
-
-## Warning:
-***I'm not responsible for any bricked devices! Even though always try to help you out of a bootloop or with any other problems, I won't take responsibility for anything caused by this module. Use it at your own risk!***
