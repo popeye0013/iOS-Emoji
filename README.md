@@ -1,3 +1,6 @@
+<p align="center">  <img src="https://github.com/popeye0013/iOS-Emoji/raw/main/Resources/iOS.png">
+</p>
+
 ## About:
 It replaces your default emoji font with the iOS16 emojis! (ROOT)
 
