@@ -2,7 +2,7 @@
 </p>
 
 ## About:
-It replaces your default emoji font with the iOS16 emojis! (ROOT)
+It replaces your default emoji font with the iOS emojis! (ROOT)
 
 ## Installation: 
 1. Open Magisk and go to the modules page.
