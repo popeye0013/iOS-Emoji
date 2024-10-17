@@ -10,10 +10,8 @@ It replaces your default emoji font with the iOS emojis! (ROOT)
 3. Wait for it to install and reboot when it's done.
 4. Enjoy!
 
-## Tips!
- - Flash via magisk or KSU Manager
-  
 ## Note 
+ - Flash via magisk or KSU Manager
 (for ksu users) : Turn off unmount modules by default toggle
 
 ## Support: 
